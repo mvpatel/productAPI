@@ -3,12 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package productAPI.dao;
+package productAPI.api;
 
 /**
  *
  * @author mp18aad
  */
-public class Connection {
+public class CancelProduct {
     
 }
